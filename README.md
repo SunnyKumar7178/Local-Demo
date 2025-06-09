@@ -1,4 +1,4 @@
 # ELGOSS-Demo
 Registration-Form
 <br>
-Author Sunny kumar
+Author Sunny Singh
